@@ -1,0 +1,1 @@
+All the SQL queries were ran in pgadmin4 by using PostgreSQL language.
